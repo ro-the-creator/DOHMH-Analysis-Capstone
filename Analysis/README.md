@@ -87,7 +87,7 @@ Performs exploratory data analysis and formal hypothesis testing on the cleaned 
 2. **Which neighborhoods are high in visits but low in admissions, potentially needing more support?**
    — This could indicate hospital overflow or access issues.
 
-> NOTE: 
+> [!NOTE:]
 > Visits and admissions in this dataset are strictly for influenza/pneumonia symptoms, which were major COVID-19 indicators during the study period.
 
 ---
@@ -156,5 +156,5 @@ Analysis/
 | `Data/Emergency_Department_Visits_and_Admissions_for_Influenza-like_Illness_and_or_Pneumonia_20250714.csv` | Raw input |
 | `Data/nyc_dohmh_clean.csv` | Cleaned output used by statistical testing |
 
-> !NOTE
+> [!NOTE]
 > Data folder does not live in GitHub Repository since the file is too large. Instead, the main repository README.md contains the link the original [NYC OpenData](https://data.cityofnewyork.us/Health/Emergency-Department-Visits-and-Admissions-for-Inf/2nwg-uqyg/about_data) dataset source.
