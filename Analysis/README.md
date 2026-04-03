@@ -87,7 +87,7 @@ Performs exploratory data analysis and formal hypothesis testing on the cleaned 
 2. **Which neighborhoods are high in visits but low in admissions, potentially needing more support?**
    — This could indicate hospital overflow or access issues.
 
-> [!NOTE:]
+> [!NOTE]
 > Visits and admissions in this dataset are strictly for influenza/pneumonia symptoms, which were major COVID-19 indicators during the study period.
 
 ---
